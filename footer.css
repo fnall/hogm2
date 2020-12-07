@@ -1,0 +1,281 @@
+* {
+    box-sizing: border-box;
+}
+.footer-ul {
+    list-style-type: none;
+    line-height: 220%;
+}
+.footer-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #e4e4e4;
+    margin-top: 100px;
+}
+.shop {
+    width: 16.5%;
+}
+.corporate {
+    width: 15.5%;
+}
+.hjaelp {
+    width: 15.5%;
+}
+.medlem {
+    width: 17.5%;
+}
+.filler {
+    width: 15%;
+}
+.filler-igen {
+    width: 20%;
+}
+footer {
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+footer p {
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+.some-logo {
+    width: 100%;
+    text-align: center;
+}
+.some-text {
+    width: 40%;
+    text-align: center;
+}
+.some-text-filler {
+    width: 30%;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+.hennes-logo-m {
+    width: 100%;
+    text-align: center;
+    align-content: center;
+}
+.danmark {
+    text-align: center;
+    width: 100%;
+}
+.loogz {
+    width: 14%;
+}
+.top-filler {
+    width: 100%;
+}
+.some-logo p a {
+    letter-spacing: 38px;
+}
+.some-logo p a:hover {
+    text-decoration: none;
+    opacity: 0.6;
+}
+li strong a:hover {
+    color: #cc071e;
+    text-decoration: none;
+}
+body {
+    background-color: #FAF9F8
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 25px;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+.kundeservice {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 7%;
+    position: relative;
+    top: 17px;
+}
+.fashionnews {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 7%;
+    position: relative;
+    top: 17px;
+}
+.dropmenu {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 7%;
+    position: relative;
+    top: 17px;
+}
+.login {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 7%;
+}
+.favoritter {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 8%;
+}
+.shopping {
+    padding: 7px;
+    background-color: #FAF9F8;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 10%;
+}
+.ivan-filler {
+    width: 50%;
+}
+header a {
+    text-decoration: none;
+    color: black;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+.dotlord {
+    width: 30%;
+}
+.smaller-filler {
+    width: 2%;
+}
+.bot-filler {
+    width: 100%;
+}
+.filler-vid-left {
+    width: 10%;
+}
+.body-flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    position: relative;
+    margin-top: 50px;
+}
+.filler-vid-right {
+    width: 10%;
+}
+.div-video {
+    width: 80%;
+}
+.bigvid {
+    width: 100%;
+    margin-top: 30px;
+}
+.hva-handler-julen-om {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+.filler-vid-part {
+    width: 5.5%;
+}
+.viktor {
+    width: 100%;
+}
+.laerke {
+    width: 100%;
+}
+.kirsten {
+    width: 100%;
+}
+.kirsten-div, .laerke-div, .viktor-div {
+    width: 26%;
+    margin-top: 30px;
+}
+.rød-tekst {
+    color: #cc071e;
+}
+.champagne-text {
+    padding-left: 1px;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    width: 85%;
+    line-height: 250%;
+    font-family: 'HM Sans Regular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+.tobias-img {
+    width: 91%;
+}
+.loco {
+    margin-top: 80px;
+    width: 36%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.filler-after-vid-part {
+    width: 7.5%;
+}
+.filler-after-vid-part-two {
+    width: 10%;
+}
+.mellem-locos {
+    width: 8%;
+}
+.loco-lyng {
+    margin-top: 80px;
+    width: 36%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lyngby {
+    width: 91%;
+}
+.banner-left {
+    width: 45%;
+}
+.banner-right {
+    width: 44.5%;
+}
+.mid-banner {
+    width: 10.5%;
+}
+.logo-bar {
+    width: 99.84%;
+}
+.banner-img-det-left {
+    width: 121%;
+}
+.banner-img-det-right {
+    width: 123%;
+}
+.extra {
+    text-align: right;
+    margin-top: 70px;
+}
+.absolute-christmas {
+    position: absolute;
+    right: -345px;
+    bottom: 10px;
+}
+.traet {
+    width: 50%;
+}
